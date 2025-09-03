@@ -1,5 +1,5 @@
 # PRUEBASEMESTRE2026-1
-##Descripción 
+## Descripción 
 Repositorio para las pruebas de github 2026-1
-##Colaboradores 
+## Colaboradores 
 Yo
